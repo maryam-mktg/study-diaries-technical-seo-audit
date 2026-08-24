@@ -14,7 +14,10 @@ Study Diaries is a study-abroad information site for Azerbaijani students that I
 | Clicks | 0 | 4 |
 | CTR | 0% | 17.4% |
 | Avg. position | 64 | 24.1 |
+
 <img width="844" height="307" alt="gsc-performance-13-22aug" src="https://github.com/user-attachments/assets/c6966ace-4b0b-4c15-963a-440db4c21f14" />
+
+
 
 
 
@@ -95,7 +98,7 @@ Other pages flagged as *"Crawled — currently not indexed"* were tested individ
 
 ## 3. Semrush Technical Audit
 
-![Semrush thematic reports showing 100% crawlability, 98% HTTPS, 97% international SEO, 100% Core Web Vitals, 97% site performance, 100% internal linking and markup]
+Semrush thematic reports showing 100% crawlability, 98% HTTPS, 97% international SEO, 100% Core Web Vitals, 97% site performance, 100% internal linking and markup
 
 <img width="1380" height="359" alt="semrush-thematic-reports" src="https://github.com/user-attachments/assets/49a58c9c-3573-4e7a-80f5-06b65a5c1b6f" />
 
