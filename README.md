@@ -1,3 +1,6 @@
+<img width="1380" height="359" alt="semrush-thematic-reports" src="https://github.com/user-attachments/assets/71f98ab9-c0a1-4846-a1f2-c33fabc8608c" />
+<img width="1380" height="359" alt="semrush-thematic-reports" src="https://github.com/user-attachments/assets/49a58c9c-3573-4e7a-80f5-06b65a5c1b6f" />
+<img width="844" height="307" alt="gsc-performance-13-22aug" src="https://github.com/user-attachments/assets/c6966ace-4b0b-4c15-963a-440db4c21f14" />
 # Study Diaries — SEO Setup & Technical Optimization Case Study
 
 > A self-directed SEO case study on a live website: setting up organic search from zero, diagnosing a critical indexing bug, and auditing/fixing technical issues with Google Search Console and Semrush.
