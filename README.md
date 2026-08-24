@@ -2,7 +2,7 @@
 
 > A self-directed SEO case study on a live website: setting up organic search from zero, diagnosing a critical indexing bug, and auditing/fixing technical issues with Google Search Console and Semrush.
 
-**Live site:** [(https://www.studydiaries.org/]
+**Live site:** [https://www.studydiaries.org/]
 
 ## TL;DR
 
@@ -15,6 +15,8 @@ Study Diaries is a study-abroad information site for Azerbaijani students that I
 | CTR | 0% | 17.4% |
 | Avg. position | 64 | 24.1 |
 <img width="844" height="307" alt="gsc-performance-13-22aug" src="https://github.com/user-attachments/assets/c6966ace-4b0b-4c15-963a-440db4c21f14" />
+
+
 
 **Skills demonstrated:** Technical SEO · Google Search Console · Semrush · Indexation Analysis · URL Inspection · XML Sitemaps · On-Page SEO · Hreflang · SEO Troubleshooting · Technical Auditing
 
@@ -94,6 +96,7 @@ Other pages flagged as *"Crawled — currently not indexed"* were tested individ
 ## 3. Semrush Technical Audit
 
 ![Semrush thematic reports showing 100% crawlability, 98% HTTPS, 97% international SEO, 100% Core Web Vitals, 97% site performance, 100% internal linking and markup]
+
 <img width="1380" height="359" alt="semrush-thematic-reports" src="https://github.com/user-attachments/assets/49a58c9c-3573-4e7a-80f5-06b65a5c1b6f" />
 
 Initial audit: **95% site health**, 12 pages crawled, 23 warnings, **0 errors or broken pages** — a strong technical foundation. Rather than chasing a 100% score automatically, I investigated each warning individually to separate real SEO problems from low-priority issues, false positives, and platform-managed limitations.
